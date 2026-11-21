@@ -20,6 +20,9 @@
 - 🌱 أعمل على بناء تطبيقات وأدوات مستقلة وخفيفة تركز على الأداء وسهولة الاستخدام.
 
 ### 🧰 الأنظمة والتقنيات والأدوات
+
+
+
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/CachyOS-00A8E8?style=for-the-badge&logo=linux&logoColor=white" />
@@ -28,6 +31,7 @@
   <img src="https://img.shields.io/badge/WinGet-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
+
 
 <p>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
