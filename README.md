@@ -2,8 +2,7 @@
 
 # مرحباً، أنا Abu Kasim 👋
 
-**مطور ومهتم بأنظمة هاكنتوش MacOS Linux و Windows وتخصيص بيئات العمل والأدوات المفتوحة**
-
+**مطور ومهتم بأنظمة MacOS  هاكنتوش & Linux & Windows وتخصيص بيئات العمل والأدوات المفتوحة**
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://filefreesy.blogspot.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abu_Kasim)
 [![Channel](https://img.shields.io/badge/Telegram_Channel-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programs_edditing)
