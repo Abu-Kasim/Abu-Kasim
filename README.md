@@ -14,15 +14,29 @@
 ---
 
 ### 🚀 نبذة سريعة
-- 💻 مهتم ببناء الأدوات البرمجية وتجربة وتخصيص أنظمة **Arch / CachyOS** و **Windows**.
-- 🛠️ أشارك شروحات وأدوات تقنية على المدونة وقناة التلغرام.
-- 🌱 أعمل باستمرار على تطوير مشاريع وأدوات عملية وتسهيل سير العمل.
+- 💻 مهتم بتطوير الأدوات البرمجية، وتخصيص بيئات سطح المكتب مثل **CachyOS / Hyprland** و **Windows**.
+- 🛠️ أشارك شروحات، إعدادات (`dotfiles`)، وأدوات عملية عبر المدونة وقناة التلغرام.
+- 🌱 أعمل على بناء تطبيقات وأدوات مستقلة وخفيفة تركز على الأداء وسهولة الاستخدام.
 
-### 🧰 الأنظمة والأدوات
+### 🧰 الأنظمة والتقنيات والأدوات
 <p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CachyOS-00A8E8?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyprland-00D8FF?style=for-the-badge&logo=wayland&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinGet-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
