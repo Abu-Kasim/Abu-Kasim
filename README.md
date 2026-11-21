@@ -47,6 +47,13 @@
 
 </div>
 
+---
+
+### 📌 النشاط و المساهمات 
+
+<div align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abu-Kasim&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
