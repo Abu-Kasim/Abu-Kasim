@@ -1,7 +1,6 @@
 <div align="center">
 
-https://github.com/Abu-Kasim/Abu-Kasim/blob/main/banner.jpg
-
+<img src="./banner.jpg" alt="Abu Kasim Banner" width="100%" />
 
 
 
