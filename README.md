@@ -3,6 +3,8 @@
 # مرحباً، أنا Abu Kasim 👋
 
 **مطور ومهتم بأنظمة MacOS  هاكنتوش & Linux & Windows وتخصيص بيئات العمل والأدوات المفتوحة**
+
+
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://filefreesy.blogspot.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abu_Kasim)
 [![Channel](https://img.shields.io/badge/Telegram_Channel-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/programs_edditing)
@@ -13,8 +15,8 @@
 ---
 
 ### 🚀 نبذة سريعة
-- 💻 مهتم بتطوير الأدوات البرمجية، وتخصيص بيئات سطح المكتب مثل **CachyOS / Hyprland** و **Windows**.
-- 🛠️ أشارك شروحات، إعدادات (`dotfiles`)، وأدوات عملية عبر المدونة وقناة التلغرام.
+- 💻 مهتم بتطوير الأدوات البرمجية، وتخصيص بيئات سطح المكتب مثل **CachyOS / Hyprland** & **Windows** & **MacOS** .
+- - 🛠️ أشارك شروحات، إعدادات (`dotfiles`)، وأدوات عملية عبر المدونة وقناة التلغرام.
 - 🌱 أعمل على بناء تطبيقات وأدوات مستقلة وخفيفة تركز على الأداء وسهولة الاستخدام.
 
 ### 🧰 الأنظمة والتقنيات والأدوات
