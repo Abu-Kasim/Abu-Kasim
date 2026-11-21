@@ -1,5 +1,10 @@
 <div align="center">
 
+https://github.com/Abu-Kasim/Abu-Kasim/blob/main/banner.jpg
+
+
+
+
 # مرحباً، أنا Abu Kasim 👋
 
 **مطور ومهتم بأنظمة MacOS  هاكنتوش & Linux & Windows وتخصيص بيئات العمل والأدوات المفتوحة**
