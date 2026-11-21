@@ -16,24 +16,25 @@
 
 ### 🚀 نبذة سريعة
 - 💻 مهتم بتطوير الأدوات البرمجية، وتخصيص بيئات سطح المكتب مثل **CachyOS / Hyprland** & **Windows** & **MacOS** .
-- - 🛠️ أشارك شروحات، إعدادات (`dotfiles`)، وأدوات عملية عبر المدونة وقناة التلغرام.
+- 🛠️ أشارك شروحات، إعدادات (`dotfiles`)، وأدوات عملية عبر المدونة وقناة التلغرام.
 - 🌱 أعمل على بناء تطبيقات وأدوات مستقلة وخفيفة تركز على الأداء وسهولة الاستخدام.
 
+
+---
+
 ### 🧰 الأنظمة والتقنيات والأدوات
+<div align="center">
 
-
-
-<p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/CachyOS-00A8E8?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CachyOS-1dc7b5?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyprland-00D8FF?style=for-the-badge&logo=wayland&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/WinGet-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-1d89c7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinGet-5b1dc7?style=for-the-badge&logo=windows11&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
+
+  <br />
 
 
-<p>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -43,7 +44,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-</p>
+
+</div>
+
+
+---
 
 ### 📊 إحصائيات GitHub
 <div align="center">
